@@ -90,4 +90,4 @@ Markdown syntax is use to display the markdown heading, code and images. Every h
 Summary:
 This is how you can create a nicely Readme for your Github to help readers understand your project.
 
-You can find the github repository at 
+You can find the github repository at: <https://github.com/Gerald-Star/Technical_documentation_Readmi_Markdown.git>
