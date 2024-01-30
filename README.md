@@ -116,6 +116,12 @@ You can make a numbered list by starting a new line with a 1.
 
 # 4 . Export Readme Markdown into HTML or PDF files
 
+Firstly, download the markdown extensions stated on the pictures above. This extensions enables you to control your Readme preview, download as a PDF file, HTML, Pandoc or even as eBook. The markdown extensions controls your Readme documentation page.
+
+To open the Readme preview, right click on the Readme.md file and select *Markdown Preview Enhanced*. This is a markdown extension.
+
+To download as a PDF file or others, right click on the Preview Readme.md, select *Export* then select download of your choice as shown below.
+
 ![PDF Markdown](/images_markdown/Export_readme.png)
 
 Summary:
